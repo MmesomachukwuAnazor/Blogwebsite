@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+
+main{
+    margin-top: -27px;
+
+}
+
+.Header{
+    background-color: white;
+    font-size: 20px;
+    color: blue;
+}
+
+.container{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.Header h1{
+    padding: 20px;
+}
+
+/* Post blog section */
+
+.Blog_post{
+       background-color: white;
+       border-radius: 1%;
+       margin-bottom: 20px;
+       
+       
+}
+
+.Blog_post h2{
+    color: brown;
+}
+
+.Post_blog{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2%;
+}
+
+.Post_blog h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Post_blog-content{
+    padding: 20px;
+}
+
+.more{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 20px;
+}
+
